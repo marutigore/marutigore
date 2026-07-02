@@ -28,6 +28,11 @@
 
 I am an **Artificial Intelligence & Machine Learning** engineer and **Data Analyst Intern** at **Pyspider**, Bengaluru. I specialize in the architecture, deployment, and optimization of end-to-end intelligent systems. My technical focus ranges from designing custom in-memory vector indexing algorithms to containerizing multi-tier web applications and building autonomous, agent-driven workflows.
 
+- 🎓 **Education**: Bachelor of Engineering in Artificial Intelligence & Machine Learning  
+  *Government Engineering College, Challakere* (CGPA: **8.2 / 10** | 2022 - 2026)
+- 💼 **Current Focus**: Machine Learning Pipelines, Retrieval-Augmented Generation (RAG), and ETL Automation.
+- 📍 **Location**: Bengaluru, Karnataka, India
+
 ---
 
 ## 🛠️ The Tech Matrix
@@ -97,41 +102,30 @@ Here is how I design the data lifecycle for my AI platforms:
 
 ## 🔬 Featured Implementations
 
-<details open>
-<summary><b>🌟 Project 1: Synthara — AI-Powered Data Preparation Platform (2025)</b></summary>
-<br>
-
+### 🌟 **Project 1: Synthara — AI-Powered Data Preparation Platform (2025)**
 > An AI-driven ETL platform translating natural language prompts into structured analytical schemas.
-
 - **Objective**: Reduce manual data cleaning and processing time.
 - **Impact**: **80% reduction** in manual preparation effort.
 - **Stack**: `Next.js` &bull; `Supabase` &bull; `Gemini API` &bull; `DeepSeek AI` &bull; `Python Web Scraping`
 - **Architecture Highlights**: Includes multi-agent prompt loops, web parsing with recursive retries, and schema validation.
-</details>
 
-<details>
-<summary><b>🤖 Project 2: AI Data Analyst Chatbot — Document Intelligence (2024)</b></summary>
-<br>
+---
 
+### 🤖 **Project 2: AI Data Analyst Chatbot — Document Intelligence (2024)**
 > A Streamlit-based vector semantic Q&A chatbot with automatic data profiling tools.
-
 - **Objective**: Enable non-technical stakeholders to query CSV, PDF, Excel, and TXT files naturally.
 - **Impact**: Real-time semantic analysis with **100% offline local fallback**.
 - **Stack**: `Streamlit` &bull; `LangChain` &bull; `NumPy Vector Index` &bull; `Scikit-Learn` &bull; `Plotly`
 - **Architecture Highlights**: Uses a custom-built cosine similarity vector store to avoid bulky databases.
-</details>
 
-<details>
-<summary><b>📊 Project 3: Intelligent Product Comparison Dashboard (2024)</b></summary>
-<br>
+---
 
+### 📊 **Project 3: Intelligent Product Comparison Dashboard (2024)**
 > Real-time web scraping and dynamic price-feature analysis application.
-
 - **Objective**: Automate data harvesting and comparative analysis from active dynamic web domains.
 - **Impact**: Automated real-time e-commerce indexing and metric extraction.
 - **Stack**: `Python` &bull; `Selenium` &bull; `LangChain` &bull; `Ollama (Llama 3.1)` &bull; `Streamlit`
 - **Architecture Highlights**: Dynamic HTML/DOM parser that formats dynamic JavaScript payloads into structured data.
-</details>
 
 ---
 
