@@ -112,7 +112,7 @@ Interactive conversational data agent utilizing Retrieval-Augmented Generation (
 **Tech:** Streamlit • LangChain • NumPy Vector Index • Python • Scikit-Learn
 
 ### 📊 Intelligent Product Comparison Dashboard
-AI-powered web scraping application built to extract pricing, features, and availability data from dynamic e-commerce platforms in real time.
+Dynamic e-commerce intelligence system tracking real-time product pricing, specifications, and availability with LLM-powered summarization.
 **Tech:** Python • Selenium • LangChain • Ollama (Llama 3.1) • Streamlit
 
 ---
