@@ -108,7 +108,7 @@ AI-powered automated data preparation platform that converts natural language in
 **Tech:** Python • Gemini API • DeepSeek AI • Next.js • Supabase
 
 ### 🤖 AI Data Analyst Chatbot
-Streamlit web application utilizing **Retrieval-Augmented Generation (RAG)** for semantic document Q&A and automated data science analytics.
+Interactive conversational data agent utilizing Retrieval-Augmented Generation (RAG) for deep document semantic search, automated EDA, and visualization.
 **Tech:** Streamlit • LangChain • NumPy Vector Index • Python • Scikit-Learn
 
 ### 📊 Intelligent Product Comparison Dashboard
