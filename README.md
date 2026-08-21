@@ -104,7 +104,7 @@ Mission:
 ## 🚀 Featured Projects
 
 ### 🌟 Synthara
-AI-powered data preparation platform that converts natural language prompts into structured datasets using web scraping and LLMs.
+AI-powered automated data preparation platform that converts natural language instructions into structured datasets using automated web scraping and LLMs.
 **Tech:** Python • Gemini API • DeepSeek AI • Next.js • Supabase
 
 ### 🤖 AI Data Analyst Chatbot
