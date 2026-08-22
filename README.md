@@ -105,6 +105,7 @@ Mission:
 
 ### 🌟 Synthara
 AI-powered automated data preparation platform that converts natural language instructions into structured datasets using automated web scraping and LLMs.                   
+
 **Tech:** Python • Gemini API • DeepSeek AI • Next.js • Supabase
 
 ### 🤖 AI Data Analyst Chatbot
