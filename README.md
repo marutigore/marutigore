@@ -115,6 +115,7 @@ Interactive conversational data agent utilizing Retrieval-Augmented Generation (
 
 ### 📊 Intelligent Product Comparison Dashboard
 Dynamic e-commerce intelligence system tracking real-time product pricing, specifications, and availability with LLM-powered summarization.
+
 **Tech:** Python • Selenium • LangChain • Ollama (Llama 3.1) • Streamlit
 
 ---
