@@ -109,6 +109,7 @@ AI-powered automated data preparation platform that converts natural language in
 
 ### 🤖 AI Data Analyst Chatbot
 Interactive conversational data agent utilizing Retrieval-Augmented Generation (RAG) for deep document semantic search, automated EDA, and visualization.
+
 **Tech:** Streamlit • LangChain • NumPy Vector Index • Python • Scikit-Learn
 
 ### 📊 Intelligent Product Comparison Dashboard
