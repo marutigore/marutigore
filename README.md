@@ -142,10 +142,10 @@ Dynamic e-commerce intelligence system tracking real-time product pricing, speci
 ---
 
 ## 🌱 Currently Learning
-- Agentic AI Systems & Multi-Agent Workflows
-- Advanced RAG Architectures (Parent-Document Retrieval, Re-ranking)
-- MLOps & Model Deployment (Docker, Docker Compose, Cloud)
-- Advanced Data Modeling & Database Query Optimization
+- Agentic AI Systems & Multi-Agent Workflows.
+- Advanced RAG Architectures (Parent-Document Retrieval, Re-ranking).
+- MLOps & Model Deployment (Docker, Docker Compose, Cloud).
+- Advanced Data Modeling & Database Query Optimization.
 
 ---
 
