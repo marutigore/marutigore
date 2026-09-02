@@ -32,6 +32,7 @@ Specializations:
   - Data Engineering (ETL) & Analytics
   - Python Backend Development
   - Linux & Windows Operating System
+  - SQL, Power BI, Advance Excel 
 
 Mission:
   Building intelligent, production-ready systems that solve real-world business problems.
