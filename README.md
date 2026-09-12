@@ -151,13 +151,13 @@ Dynamic e-commerce intelligence system tracking real-time product pricing, speci
 ---
 
 ## 🏆 Professional Strengths
--  End-to-End AI & ML Development
--  Retrieval-Augmented Generation (RAG)
--  Data Analytics & Dashboard Design (Power BI)
--  ETL Pipeline Design & Automation
--  Docker Containerization & Deployment
--  Database Management (SQL)
--  Performance Optimization & Testing
+-  ✅ End-to-End AI & ML Development
+-  ✅ Retrieval-Augmented Generation (RAG)
+-  ✅ Data Analytics & Dashboard Design (Power BI)
+-  ✅ ETL Pipeline Design & Automation
+-  ✅ Docker Containerization & Deployment
+-  ✅ Database Management (SQL)
+-  ✅ Performance Optimization & Testing
 
 ---
 
