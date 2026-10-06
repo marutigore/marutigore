@@ -1,3 +1,4 @@
+
 <div align="center">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:4285F4&text=Maruti%20Gore&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"><img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:4285F4&text=Maruti%20Gore&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" style="max-width: 100%;"></a>
 
