@@ -26,14 +26,14 @@ Name: Maruti Gore
 Role: AI & ML Engineer / Data Analyst
 
 Specializations:
-  - Machine Learning & Deep Learning
-  - Generative AI & Prompt Engineering
-  - LLM Applications (Gemini, DeepSeek, Llama 3.1)
-  - Retrieval-Augmented Generation (RAG)
-  - Data Engineering (ETL) & Analytics
-  - Python Backend Development
-  - Linux & Windows Operating System
-  - SQL, Power BI, Advance Excel 
+   Machine Learning & Deep Learning
+   Generative AI & Prompt Engineering
+   LLM Applications (Gemini, DeepSeek, Llama 3.1)
+   Retrieval-Augmented Generation (RAG)
+   Data Engineering (ETL) & Analytics
+   Python Backend Development
+   Linux & Windows Operating System
+   SQL, Power BI, Advance Excel 
 
 Mission:
   Building intelligent, production-ready systems that solve real-world business problems.
